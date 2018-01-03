@@ -7,3 +7,5 @@ We managed to make the app (hopefully) self-explanatory in that we offer two dif
 2. By selecting from a predefined list of world capitals
 
 After the values are entered or a world capital has been selected, hitting the respective button "Add Marker" or "Add Capital" will make the marker appear on the leaftlet map
+
+For a more comprehensive explanation of the user interface, please visit http://rpubs.com/NoJster/dataproducts_week4
